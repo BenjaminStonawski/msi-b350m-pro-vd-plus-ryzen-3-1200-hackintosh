@@ -25,3 +25,6 @@ I'm using Ventura because Broadcom cards have lost support in Sonoma and in orde
 
 ## Needs work
 ❌ Sleep is not perfect, PC can be put to sleep mode but won't load back
+
+## Screenshots
+![](https://media.discordapp.net/attachments/415562092138070018/1216530211412115616/Screenshot_2024-03-11_at_AM_12.35.11.png?ex=6600b90c&is=65ee440c&hm=f956ca57e6fe7c6b68b3707440b277cb0464c01727b5117f5830944cc66ea744&=&format=webp&quality=lossless&width=1012&height=569)
