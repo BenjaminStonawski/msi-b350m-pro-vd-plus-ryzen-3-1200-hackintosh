@@ -13,14 +13,15 @@
 | Current OS       | macOS Ventura 13.6.5 (22G621)     |
 
 ## Things to know
-I'm using Ventura because Broadcom cards have lost support in Sonoma and in order to get them working, you need to disable SIP and AMFI which is not a safe thing to do. But this EFI works with Sonoma as well.
+I'm using Ventura because Broadcom cards have lost support in Sonoma and in order to get them working, you need to disable SIP and AMFI which is not a safe thing to do. But this EFI works with Sonoma as well.<br>
+With AMD CPUs, a lot of applications will crash or won't function properly, that's due to MKL, to fix this, head over to the 'mkl-fix' folder!
 
 ## What works
-✅ Ethernet + WiFi + Bluetooth => AirDrop, Handoff, iMessage/FaceTime
-✅ Graphics Acceleration (RX 5700 XT is natively supported)
-✅ AMD Power Management
-✅ All audio ports (front and rear speaker/mic ports, HDMI/DP audio) => Boot Chime
-✅ USB ports
+✅ Ethernet + WiFi + Bluetooth => AirDrop, Handoff, iMessage/FaceTime <br>
+✅ Graphics Acceleration (RX 5700 XT is natively supported)<br>
+✅ AMD Power Management<br>
+✅ All audio ports (front and rear speaker/mic ports, HDMI/DP audio) => Boot Chime<br>
+✅ USB ports<br>
 
 ## Needs work
 ❌ Sleep is not perfect, PC can be put to sleep mode but won't load back
