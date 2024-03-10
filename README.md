@@ -14,3 +14,13 @@
 
 ## Things to know
 I'm using Ventura because Broadcom cards have lost support in Sonoma and in order to get them working, you need to disable SIP and AMFI which is not a safe thing to do. But this EFI works with Sonoma as well.
+
+## What works
+✅ Ethernet + WiFi + Bluetooth => AirDrop, Handoff, iMessage/FaceTime
+✅ Graphics Acceleration (RX 5700 XT is natively supported)
+✅ AMD Power Management
+✅ All audio ports (front and rear speaker/mic ports, HDMI/DP audio) => Boot Chime
+✅ USB ports
+
+## Needs work
+❌ Sleep is not perfect, PC can be put to sleep mode but won't load back
