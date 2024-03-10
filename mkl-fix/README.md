@@ -8,6 +8,6 @@ Well, we need to prevent macOS from running MKL functions within applications by
   ```
 2. Now we need to copy the file to the LaunchAgents folder
   ```
-  sudo cp -r ./environment.plist /Library/LaunchAgents
+  sudo cp -r ./environment.plist /Library/LaunchAgents/
   ```
 After that, we need to reboot the system and MKL should be disabled in every application.
