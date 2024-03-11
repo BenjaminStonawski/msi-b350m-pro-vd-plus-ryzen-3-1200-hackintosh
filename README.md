@@ -14,7 +14,8 @@
 
 ## Things to know
 I'm using Ventura because Broadcom cards have lost support in Sonoma and in order to get them working, you need to disable SIP and AMFI which is not a safe thing to do. But this EFI works with Sonoma as well.<br><br>
-<b>With AMD CPUs, a lot of applications will crash or won't function properly, that's due to MKL, to fix this, head over to the 'mkl-fix' folder!</b>
+<b>With AMD CPUs, a lot of applications will crash or won't function properly, that's due to MKL, to fix this, head over to the 'mkl-fix' folder!</b><br><br>
+If Handoff or Universal Clipboard don't work, check out my guide in the 'handoff-fix' folder!
 
 ## What works
 ✅ Ethernet + WiFi + Bluetooth => AirDrop, Handoff, iMessage/FaceTime <br>
