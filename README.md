@@ -1,4 +1,4 @@
-# OpenCore 0.9.8
+# OpenCore 0.9.9
 ## Specs
 | **Component**    | **Model**                         |
 | ---------------- | --------------------------------- |
@@ -22,11 +22,12 @@ If Handoff or Universal Clipboard don't work, check out my guide in the 'handoff
 ✅ Ethernet + WiFi + Bluetooth => AirDrop, Handoff, iMessage/FaceTime <br>
 ✅ Graphics Acceleration (RX 5700 XT is natively supported)<br>
 ✅ AMD Power Management<br>
+✅ Sleep mode<br>
 ✅ All audio ports (front and rear speaker/mic ports, HDMI/DP audio) => Boot Chime<br>
 ✅ USB ports<br>
 
-## Needs work
-❌ Sleep is not perfect, PC can be put to sleep mode but won't load back
+## Doesn't work
+🫢 Well, everything works!
 
 ## Screenshots
 ![](https://media.discordapp.net/attachments/415562092138070018/1216536580202696754/Screenshot_2024-03-11_at_AM_12.35.11.png?ex=6600befa&is=65ee49fa&hm=92b0d28da5d740007b9d19d3778ab2d4aff1384a49383f8282010c8c2f924d34&=&format=webp&quality=lossless&width=1012&height=569)
